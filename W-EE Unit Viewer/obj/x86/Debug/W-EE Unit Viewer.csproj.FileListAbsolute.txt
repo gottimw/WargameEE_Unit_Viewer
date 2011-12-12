@@ -1,0 +1,13 @@
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\MainWindow.baml
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\App.g.cs
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\W-EE Unit Viewer_MarkupCompile.cache
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\W-EE Unit Viewer.g.resources
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\W_EE_Unit_Viewer.Properties.Resources.resources
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\bin\Debug\W-EE Unit Viewer.exe
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\bin\Debug\W-EE Unit Viewer.pdb
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\W-EE Unit Viewer.exe
+C:\Users\Gottimw\Desktop\WargameEE_Unit_Viewer\W-EE Unit Viewer\obj\x86\Debug\W-EE Unit Viewer.pdb

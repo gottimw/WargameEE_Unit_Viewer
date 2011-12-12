@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Unit_Info.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -91,6 +92,144 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_hel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_inf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_rec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_sup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_tnk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\off_vhc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_hel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_inf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_rec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_sup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_tnk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\buttons\on_vhc.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-17.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-240.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-24A.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-2_URPG_GNIEWOSZ.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-2_URP_SALAMANDRA.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-8TV.png" />
+    <Resource Include="Images\decks\polishGroup\air\d_Mi-8TVK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\infantry\DESANTOWA_Mi-17.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\DESANTOWA_Mi-BT.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\DESANTOWA_Mi-BTV.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\DESANTOWA_Mi-BTVK.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_DESANTOWA.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_Mi-17.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_Mi-8T.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_Mi-8TV.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_Mi-8TVK.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-62_TOPAS-2A.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-62_TOPAS-2AP.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-62_TOPAS.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-64_SKOT-1.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-64_SKOT-2.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-64_SKOT-2A.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_OT-64_SKOT-2AM.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_PTUR_FAGOT.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_PZRK_STRELA-2 %282%29.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_PZRK_STRELA-2.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\d_STRZELCY_KONNI.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PTUR_FAGOT.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PTUR_FAGOT_OT-64_SKOT-1.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PTUR_FAGOT_OT-64_SKOT-2.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PTUR_FAGOT_OT-64_SKOT-2A.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PTUR_FAGOT_OT-64_SKOT-2AM.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PZRK_STRELA-2_OT-64_SKOT-1.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PZRK_STRELA-2_OT-64_SKOT-2.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PZRK_STRELA-2_OT-64_SKOT-2A.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\PZRK_STRELA-2_OT-64_SKOT-2AM.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\STRZELCY_KONNI_OT-62_TOPAS-2A.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\STRZELCY_KONNI_OT-62_TOPAS-2AP.png" />
+    <Resource Include="Images\decks\polishGroup\infantry\STRZELCY_KONNI_OT-62_TOPAS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\logistic\BROM-ZU.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\d_BROM-ZU.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\d_UAZ-4698.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\d_URAL-3750.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\d_URAL-4320.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\UAZ-4698.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\URAL-3750.png" />
+    <Resource Include="Images\decks\polishGroup\logistic\URAL-4320.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\recon\d_Mi-2[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_Mi-2_URN[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_Mi-2_US[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_PT-71[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_PT-768[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_PT-85[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_PT-90[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_UAZ-469[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_UAZ-469_AGS-17[00].png" />
+    <Resource Include="Images\decks\polishGroup\recon\d_UAZ-469_KPV[00].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\support\d_2519_MSTA-5.png" />
+    <Resource Include="Images\decks\polishGroup\support\d_253M_AKATSIYA.png" />
+    <Resource Include="Images\decks\polishGroup\support\d_253_AKATSIYA.png" />
+    <Resource Include="Images\decks\polishGroup\support\d_257M_MALKA.png" />
+    <Resource Include="Images\decks\polishGroup\support\d_257_PION.png" />
+    <Resource Include="Images\decks\polishGroup\support\d_ZSU-57-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-55.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-55AM-1.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-55AMV-1.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62M-1.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62M-V.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62M.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62_obr_1972.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-62_obr_1975.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-72.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-72A.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_T-72B.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_TO-55.png" />
+    <Resource Include="Images\decks\polishGroup\tanks\d_TO-62.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\decks\polishGroup\vehicles\d_ASU-85.png" />
+    <Resource Include="Images\decks\polishGroup\vehicles\d_UAZ-469_FAGOT.png" />
+    <Resource Include="Images\decks\polishGroup\vehicles\d_UAZ-469_KONKURS.png" />
+    <Resource Include="Images\decks\polishGroup\vehicles\d_UAZ-469_SPG-9.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

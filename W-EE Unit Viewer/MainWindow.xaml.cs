@@ -19,9 +19,29 @@ namespace W_EE_Unit_Viewer
     /// </summary>
     public partial class MainWindow : Window
     {
-        public MainWindow()
-        {
+        public MainWindow(){
             InitializeComponent();
+            initalGridLayout();
         }
+        //      @"\Images\decks\polishGroup\logistic\BROM-ZU.png"
+        //      @"/Images/decks/polishGroup/logistic/BROM-ZU.png"
+        //      
+        public void initalGridLayout(){
+            Unit_Info unit_image = new Unit_Info(@"..\..\Images\decks\polishGroup\logistic\BROM-ZU.png",
+                                                 false,
+                                                 0,
+                                                 0,
+                                                 unitImagesStackPanel);
+
+        }
+
+        private void deck1_Click(object sender, RoutedEventArgs e){
+
+        }
+
+        private void btn_log_1_Click(object sender, RoutedEventArgs e){
+
+        }
+
     }
 }
